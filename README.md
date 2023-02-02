@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Joe, a qualified social worker executing a handbrake turn on the Northcoders Data Engineering bootcamp! I am thriving whilst coding - regularly and (relatively) painlessly entering a lovely flow state. I'm ready to jump into data engineering professionally when I graduate in March 2023.
+I'm Joe, a former social worker executing a handbrake turn on the Northcoders Data Engineering bootcamp! I am thriving whilst coding - regularly and (relatively) painlessly entering a lovely flow state. I'm ready to jump into data engineering professionally when I graduate in March 2023.
 
 <h3> Languages:</h3>
 <p>
