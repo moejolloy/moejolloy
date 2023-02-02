@@ -6,6 +6,11 @@
 <a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/></a> 
 </p>
 
+<h3> Tools:</h3>
+<p>
+<a target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"/></a> 
+</p>
+
 - 🔭 I’m currently working on an app which, in the event of a bidding system being implemented into T20 cricket matches in place of a coin toss, will give a cricket captain an idea of what to bid for, and an estimate for the number of runs to bid. Niche. More info [here] (https://www.espncricinfo.com/story/why-replacing-the-toss-with-an-auction-is-the-fair-thing-to-do-1277744).
 
 It involves scraping, parsing, modelling and manipulating thousands of pieces of match data, and I will eventually get one of my front-end friends to help me make it look nice and be interactable, promise.
