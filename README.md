@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Joe, a qualified social worker executing a handbrake turn on the Northcoders Data Engineering bootcamp! I am thriving whilst coding - regularly and commparatively painlessly entering a lovely flow state. I'm ready to jump into data engineering professionally when I graduate in March 2023.
+I'm Joe, a qualified social worker executing a handbrake turn on the Northcoders Data Engineering bootcamp! I am thriving whilst coding - regularly and (relatively) painlessly entering a lovely flow state. I'm ready to jump into data engineering professionally when I graduate in March 2023.
 
 <h3> Languages:</h3>
 <p>
@@ -25,7 +25,7 @@ In addition to my full-time bootcamp, which finishes in March 2023, any other co
 
 - 🔭 I’m currently working on an app which, in the event of a bidding system being implemented into T20 cricket matches in place of a coin toss, will give a cricket captain an idea of what to bid for, and an estimate for the number of runs to bid. Niche. More info [here](https://www.espncricinfo.com/story/why-replacing-the-toss-with-an-auction-is-the-fair-thing-to-do-1277744).
 
-- It involves scraping, parsing, modelling and manipulating thousands of pieces of match data, and I will eventually get one of my front-end friends to help me make it look nice and be interactable, promise.
+  - It involves scraping, parsing, modelling and manipulating thousands of pieces of match data, and I will       eventually get one of my front-end friends to help me make it look nice and be interactable, promise.
 
 - 🌱 I’m currently learning skills which I think will help me build great foundations in data engineering, regardless of the tech stack of my future role - namely bash/command shell skills, and data manipulation/modelling techniques.
 
