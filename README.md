@@ -1,3 +1,10 @@
+<p align="right">  <a 
+href="https://www.linkedin.com/in/joe-molloy-3bb14396" target="_blank"><img alt="LinkedIn" 
+src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a> <a 
+href="mailto:joemolloy17@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+<p align="right">
+
 ### Hi there 👋
 
 I'm Joe, a former social worker executing a handbrake turn on the Northcoders Data Engineering bootcamp! I am thriving whilst coding - regularly and (relatively) painlessly entering a lovely flow state. I'm ready to jump into data engineering professionally when I graduate in March 2023.
