@@ -8,7 +8,7 @@ href="mailto:joemolloy17@gmail.com" target="_blank"><img alt="Email" src="https:
 
 ### Hi there 👋
 
-I'm Joe, a data engineer and former social worker who recently executed a handbrake turn on the Northcoders Data Engineering bootcamp! I am thriving whilst coding - regularly and (relatively) painlessly entering a lovely flow state. I'm ready to jump into data engineering professionally after my Northcoders graduation in March 2023.
+I'm Joe, a data engineer for a housing association's net zero team. A former social worker, I executed a handbrake turn on the Northcoders Data Engineering bootcamp in late 2022! I am thriving at the advent of my coding career, often finding a flow state, and enjoying solving concrete problems after time spent on more intractable issues in my previous work.
 
 <h3> Languages:</h3>
 <p>
@@ -25,14 +25,17 @@ I'm Joe, a data engineer and former social worker who recently executed a handbr
   <a target="_blank"><img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/></a>
   <a target="_blank"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
   <a target="_blank"><img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/></a>
+  <a target="_blank"><img alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white"/></a>
   
 </p>
 
 <h3> My Projects:</h3>
 
-I am currently working on the following projects:
+In my working week I spend time incorporating solar PV, heat pump and other housing data streams to our team's bespoke data warehouse, in addition to developing and automating existing streams and analysing data from the warehouse for the wider team. 
 
-- The early stages of an app which, in the event of a bidding system being implemented into T20 cricket matches in place of a coin toss, will give a cricket captain an idea of what to bid for, and an estimate for the number of runs to bid. Niche. More info [here](https://www.espncricinfo.com/story/why-replacing-the-toss-with-an-auction-is-the-fair-thing-to-do-1277744).
+In my free time, I am currently working on the following projects:
+
+- 🏏 The early stages of an app which, in the event of a bidding system being implemented into T20 cricket matches in place of a coin toss, will give a cricket captain an idea of what to bid for, and an estimate for the number of runs to bid. Niche. More info [here](https://www.espncricinfo.com/story/why-replacing-the-toss-with-an-auction-is-the-fair-thing-to-do-1277744).
 
 - 🌱 Using Terraform to build cloud architecture in Azure, GCP and AWS, to help me gain better foundations for a career in Data Engineering.
 
